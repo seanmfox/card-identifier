@@ -1,4 +1,11 @@
-﻿Public Class Form1
+﻿'Name: Sean Fox
+'Course: CIT-161-Z03B
+'Date: 5-22-19
+'Program Name: Card Identifier
+'Description: Chapter 2, Programming Challenge 3 - Create an application that, when a playing card is clicked, shows the name of the card
+
+
+Public Class Form1
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles lblAnswer.Click
 
     End Sub
